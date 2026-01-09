@@ -1,0 +1,32 @@
+body{
+    display: inline;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.top{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sub{
+    text-align: center;
+    border-radius: 20%;
+} 
+
+.fm{
+    display: flex;
+    justify-content: center; 
+    align-content: center; 
+}
+
+.display{
+    display: flex;
+    justify-content: center; 
+    align-content: center; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
